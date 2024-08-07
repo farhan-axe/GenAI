@@ -1,4 +1,4 @@
-BAFL GenOPS in Roman Urdu
+**BAFL GenOPS in Roman Urdu**
 
 BAFL GenOPS in Roman Urdu is a Streamlit application that allows users to ask questions related to the Retail Manual in Roman Urdu or English. The application utilizes the Google Generative AI for embedding and question answering, and FAISS for vector store management. It also supports document processing from uploaded PDF files and includes a custom CSS design for the user interface.
 Table of Contents
